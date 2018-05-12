@@ -1,0 +1,37 @@
+_repo: The-Queen-s-Necklace_20122
+_version: 0.1.0
+alternative_title: Le collier de la reine. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2006-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Queens -- France -- Fiction'
+- !lcsh 'Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'France -- History -- Louis XVI, 1774-1793 -- Fiction'
+title: The Queen's Necklace
+url: http://www.gutenberg.org/ebooks/20122
